@@ -1,4 +1,4 @@
-# Simple client with React to test ethereum [smart-contract](https://github.com/razrez/car-rental-ui/src/contracts/CarRental.sol) using Metamask provider
+# Simple client with React to test ethereum [smart-contract](https://github.com/razrez/car-rental-ui/blob/main/src/contracts/CarRental.sol) using Metamask provider
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
